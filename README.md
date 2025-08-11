@@ -1,5 +1,5 @@
 
-# CE 47 — Logic of Computer Science  
+# CE 474 — Logic of Computer Science  
 University of Mines and Technology · Department of Computer Science & Engineering  
 Semester 2 · 2025 · 2 Credits (1 × 2-hour session / week)
 
