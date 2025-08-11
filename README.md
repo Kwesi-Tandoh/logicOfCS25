@@ -77,8 +77,7 @@ By the end of the semester you will be able to:
 | Debates | 15 % |
 | Participation | 5 % |
 | **Continuous Assessment subtotal** | **40 %** |
-| Final Exam | 30 % |
-| Final Project | 30 % |
+| Final Exam | 60 % |
 | **Total** | **100 %** |
 
 **Grade Scale** – A ≥ 85, B 70–84, C 55–69, D 45–54, F < 45.
